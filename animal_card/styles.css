@@ -3,12 +3,13 @@
     display: block;
     margin: 0 auto;
 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 12px;
 
     text-align: left;
 
     border: 1px solid;
+    border-radius: 15px;
     box-shadow: 5px 5px rgba(173, 173, 173, 0.4);
 }
 
@@ -51,8 +52,8 @@ a {
 }
 
 footer {
-    margin: 0 25px;
     font-size: 10px;
+    margin: 0 25px;
 }
 
 .credits {
