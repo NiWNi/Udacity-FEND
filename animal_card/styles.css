@@ -1,9 +1,65 @@
 .card {
-    text-align: center;
-    color: blue;
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+
+    text-align: left;
+
+    border: 1px solid;
+    box-shadow: 5px 5px rgba(173, 173, 173, 0.4);
+}
+
+.bottom-box {
+    width: 270px;
+    border: 1px solid;
+
+    display: block;
+    margin: 15px auto 10px auto;
+    padding: 0 15px;
 }
 
 header {
-    text-align: center;
-    color: red;
+    font-size: 14px;
+    margin: 0 25px;
+}
+
+img {
+    width: 300px;
+
+    display: block;
+    margin: 0 auto;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+.list-items {
+    list-style: none;
+    padding: 0;
+}
+
+.item-bold {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    margin: 0 25px;
+    font-size: 10px;
+}
+
+.credits {
+    margin: 0px;
+    padding: 0px;
+}
+
+.list-credits {
+    margin: 5px 0 15px 10px;
 }
