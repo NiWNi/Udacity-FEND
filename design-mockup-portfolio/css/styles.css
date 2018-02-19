@@ -1,0 +1,58 @@
+
+body {
+    width: 100%;
+}
+
+.content {
+
+}
+
+.logo-text{
+    text-align: right;
+    text-transform: uppercase;
+
+    font-size: 50px;
+}
+
+.sub-text {
+    text-align: right;
+    text-transform: uppercase;
+
+    font-size: 30px;
+}
+
+.logo {
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.thumbnail-list {
+    list-style: none;
+}
+
+.thumbnail-title{
+    display: block;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    font-size: 20px;
+    
+}
+
+.sample-text {
+    display: block;
+    text-align: center;
+}
+
+.thumbnail-image {
+    display: block;
+    width: 100%;
+}
+
+.detail-image {
+    width: 90%;
+}
